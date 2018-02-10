@@ -56,3 +56,12 @@
  * @import "utilities/background-patterns";
  * @import "utilities/skew-transforms";
  */
+/*
+.btn {
+
+    @apply .bg-indigo
+}
+.btn-hover {
+    @apply .hover:bg-indigo-dark .text-white .px-2 .py-3 .rounded .font-sans
+}
+*/
